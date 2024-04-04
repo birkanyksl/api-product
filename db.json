@@ -1,86 +1,88 @@
-[
-  {
-    "_id": "1",
-    "title": "Kadın Desenli Elbise",
-    "price": 129.99,
-    "category": "elbise",
-    "img": ""
-  },
-  {
-    "_id": "2",
-    "title": "Erkek Slim Fit Pantolon",
-    "price": 79.99,
-    "category": "pantolon",
-    "img": ""
-  },
-  {
-    "_id": "3",
-    "title": "Kadın Spor Ayakkabı",
-    "price": 149.99,
-    "category": "ayakkabı",
-    "img": ""
-  },
-  {
-    "_id": "4",
-    "title": "Erkek Klasik Gömlek",
-    "price": 59.99,
-    "category": "gömlek",
-    "img": ""
-  },
-  {
-    "_id": "5",
-    "title": "Kadın Skinny Jean",
-    "price": 89.99,
-    "category": "jean",
-    "img": ""
-  },
-  {
-    "_id": "6",
-    "title": "Erkek Bomber Ceket",
-    "price": 199.99,
-    "category": "ceket",
-    "img": ""
-  },
-  {
-    "_id": "7",
-    "title": "Kadın Yün Hırka",
-    "price": 109.99,
-    "category": "hırka",
-    "img": ""
-  },
-  {
-    "_id": "8",
-    "title": "Erkek Polar Sweatshirt",
-    "price": 69.99,
-    "category": "sweatshirt",
-    "img": ""
-  },
-  {
-    "_id": "9",
-    "title": "Kadın Kaban",
-    "price": 189.99,
-    "category": "kaban",
-    "img": ""
-  },
-  {
-    "_id": "10",
-    "title": "Erkek Şapka",
-    "price": 29.99,
-    "category": "şapka",
-    "img": ""
-  },
-  {
-    "_id": "11",
-    "title": "Kadın Bel Çantası",
-    "price": 49.99,
-    "category": "çanta",
-    "img": ""
-  },
-  {
-    "_id": "12",
-    "title": "Erkek Deri Cüzdan",
-    "price": 39.99,
-    "category": "cüzdan",
-    "img": ""
-  }
-]
+{
+  "myproducts": [
+    {
+      "_id": "1",
+      "title": "Kadın Desenli Elbise",
+      "price": 129.99,
+      "category": "elbise",
+      "img": ""
+    },
+    {
+      "_id": "2",
+      "title": "Erkek Slim Fit Pantolon",
+      "price": 79.99,
+      "category": "pantolon",
+      "img": ""
+    },
+    {
+      "_id": "3",
+      "title": "Kadın Spor Ayakkabı",
+      "price": 149.99,
+      "category": "ayakkabı",
+      "img": ""
+    },
+    {
+      "_id": "4",
+      "title": "Erkek Klasik Gömlek",
+      "price": 59.99,
+      "category": "gömlek",
+      "img": ""
+    },
+    {
+      "_id": "5",
+      "title": "Kadın Skinny Jean",
+      "price": 89.99,
+      "category": "jean",
+      "img": ""
+    },
+    {
+      "_id": "6",
+      "title": "Erkek Bomber Ceket",
+      "price": 199.99,
+      "category": "ceket",
+      "img": ""
+    },
+    {
+      "_id": "7",
+      "title": "Kadın Yün Hırka",
+      "price": 109.99,
+      "category": "hırka",
+      "img": ""
+    },
+    {
+      "_id": "8",
+      "title": "Erkek Polar Sweatshirt",
+      "price": 69.99,
+      "category": "sweatshirt",
+      "img": ""
+    },
+    {
+      "_id": "9",
+      "title": "Kadın Kaban",
+      "price": 189.99,
+      "category": "kaban",
+      "img": ""
+    },
+    {
+      "_id": "10",
+      "title": "Erkek Şapka",
+      "price": 29.99,
+      "category": "şapka",
+      "img": ""
+    },
+    {
+      "_id": "11",
+      "title": "Kadın Bel Çantası",
+      "price": 49.99,
+      "category": "çanta",
+      "img": ""
+    },
+    {
+      "_id": "12",
+      "title": "Erkek Deri Cüzdan",
+      "price": 39.99,
+      "category": "cüzdan",
+      "img": ""
+    }
+  ]
+}
